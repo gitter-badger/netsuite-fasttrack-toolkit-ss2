@@ -1,5 +1,7 @@
 NFT (NetSuite Fasttrack Toolkit) for SuiteScript 2.0
 ===============================================
+
+[![Join the chat at https://gitter.im/ExploreConsulting/netsuite-fasttrack-toolkit-ss2](https://badges.gitter.im/ExploreConsulting/netsuite-fasttrack-toolkit-ss2.svg)](https://gitter.im/ExploreConsulting/netsuite-fasttrack-toolkit-ss2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is all the goodness (and more) of NFT re-imagined for SuiteScript 2.x
 
 This initial preview includes:
